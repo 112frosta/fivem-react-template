@@ -8,6 +8,7 @@ This project is a React template configured with TypeScript and TailwindCSS. It 
 - **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
 - **TailwindCSS**: A utility-first CSS framework for rapidly building custom designs.
 - **Custom Hook (`useNUIMessage`)**: A React hook for handling NUI messages in FiveM applications.
+- **Utility cn**: A cn utility for better DX with tailwind className merging
 
 ## Getting Started
 
